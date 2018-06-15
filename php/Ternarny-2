@@ -1,0 +1,7 @@
+<?php 
+    $value = "";
+    $ret = ( $value === false ) ? '=false' :
+                    (( $value ===  null ) ? '=null' :
+                            (( $value === 0 ) ?  '=0' :
+                                (( $value === "" ) ?  '=""' : '---')));
+    echo($ret);
