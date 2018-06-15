@@ -1,0 +1,4 @@
+<?php
+    $age = 19;
+    $restricted =   ( $age <= 18 ) ?  ( $age === 18 ) ? 'notsure' :'yes' : 'no' ;
+    echo ( "$age $restricted\n" );
