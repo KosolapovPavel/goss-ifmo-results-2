@@ -2,7 +2,7 @@
 # Результаты за 2-ой семестр
 
 [SCORM Пакет](scorm-master.zip);
-[пройти SCORM Пакет на tests.org.ru](http://tests.org.ru/mod/scorm/view.php?id=35);
+[пройти на tests.org.ru](http://tests.org.ru/mod/scorm/view.php?id=35);
 
 [Потребительская корзина](cart/index.html);
 
