@@ -1,7 +1,7 @@
 ## goss-ifmo-results-2
 # Результаты за 2-ой семестр
 
-[SCORM Пакет](.);
+[SCORM Пакет](scorm-master.zip);
 
 [Потребительская корзина](cart/index.html);
 
