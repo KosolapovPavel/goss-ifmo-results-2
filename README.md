@@ -4,7 +4,7 @@
 [SCORM Пакет](scorm-master.zip);
 [пройти на tests.org.ru](http://tests.org.ru/mod/scorm/view.php?id=35);
 
-[WebAssembly](https://drive.google.com/open?id=1b1596rVxf13mzKoF3EX0NEVZoh__1R-wujfEet1Wq6g);
+[WebAssembly](http://goo.gl/YQ93AY);
 
 [Потребительская корзина](cart/index.html);
 
